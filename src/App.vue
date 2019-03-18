@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <progress-bar msg="Title progress bar"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ProgressBar from './components/ProgressBar.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    ProgressBar
   }
 }
 </script>
