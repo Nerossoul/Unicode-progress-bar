@@ -1,29 +1,7 @@
-# title_progress_bar
+# Unicode progress bar
 
-## Project setup
-```
-npm install
-```
+## Try it
+[This link will become clickable some day]('#')
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License:
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
